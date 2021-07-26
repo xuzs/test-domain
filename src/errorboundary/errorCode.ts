@@ -1,0 +1,4 @@
+export enum ERROR_CODE {
+  ITEM_MISSING,
+  BRAND_SOLD_OUT,
+}
